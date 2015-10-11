@@ -6,7 +6,7 @@ markdown: redcarpet
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: /disney-blog/
 domain_name: 'http://jkutner.github.io'
 google_analytics: 'UA-60067944-1'
 
