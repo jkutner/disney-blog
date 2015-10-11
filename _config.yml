@@ -7,7 +7,7 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /disney-blog/
-domain_name: 'http://jkutner.github.io'
+domain_name: 'http://jkutner.github.io/disney-blog/'
 google_analytics: 'UA-60067944-1'
 
 # Details for the RSS feed generator
