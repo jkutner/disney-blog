@@ -11,5 +11,5 @@ domain_name: 'http://jkutner.github.io/disney-blog/'
 google_analytics: 'UA-60067944-1'
 
 # Details for the RSS feed generator
-url:            'http://jkutner.github.io'
+url:            'http://jkutner.github.io/disney-blog/'
 author:         'Vader Cat'
